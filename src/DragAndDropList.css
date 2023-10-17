@@ -1,0 +1,13 @@
+/* src/DragAndDropList.css */
+.drag-and-drop-list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .drag-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+  }
+  
